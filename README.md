@@ -29,13 +29,6 @@ Cette fonction envoie un email à une liste de destinataires. Elle utilise le pr
 2. Connectez-vous en tant qu'utilisateur avec l'utilisateur : `debian` et le mot de passe :`temppwd`.
 3. Exécutez le script `tp_emsy2.py` dans un terminal avec la commande `python3 tp_emsy2.py`.
 
-## Modification des paramètres
-
-Pour modifier l'adresse email du destinataire des alertes, modifiez la ligne suivante dans le script `tp_emsy2.py` :
-
-```python
-
-![image](https://github.com/kediven/TPEMSY/assets/144989993/e5769de9-e97d-467d-8b58-1c58f1212345)
 
 
 
