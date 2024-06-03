@@ -1,5 +1,5 @@
 # TPEMSY
-TP sur la BBG - mesure température / humidité
+TP sur la BBG - mesure température / humidité / VCO & MSI
 # Projet EMSY
 
 Ce projet consiste à mesurer la température et l'humidité à l'aide d'un capteur SHT40, à calculer le point de rosée à partir de ces mesures, à enregistrer ces données dans un fichier CSV et à envoyer un email d'alerte lorsque la température dépasse 28 degrés Celsius.
