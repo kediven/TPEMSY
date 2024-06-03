@@ -60,6 +60,7 @@ Nous avons obtenu ceci lorsque nous dépassons de 28°C:
 
 Dans notre script nous faisons appel au serveur SMTP pour l'envoi automatique du mail, mais il se trouve que nous n'arrivons
 pas à établir une connexion. Nous nous sommes connectés à la BBG et nous avons essayé de joindre "google.ch" ou alors "github.com" et voici le résultat :
+
 ![image](https://github.com/kediven/TPEMSY/assets/144989993/b6e2207a-ea4e-48da-9932-bfddae1e51df)
 
 
