@@ -34,7 +34,6 @@ Cette fonction envoie un email à une liste de destinataires. Elle utilise le pr
 Pour modifier l'adresse email du destinataire des alertes, modifiez la ligne suivante dans le script `tp_emsy2.py` :
 
 ```python
-send_email(["matteo.stefanelli@eduvaud.ch"], subject, message)
 
 ![image](https://github.com/kediven/TPEMSY/assets/144989993/e5769de9-e97d-467d-8b58-1c58f1212345)
 
