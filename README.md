@@ -26,8 +26,37 @@ Cette fonction envoie un email à une liste de destinataires. Elle utilise le pr
 ## Comment exécuter le script
 
 1. Connectez-vous au terminal PUTTY et connectez-vous à l'adresse de notre BBG avec l'adresse IP.
-3. Connectez-vous en tant qu'utilisateur avec l'utilisateur : `debian` et le mot de passe :`temppwd`.
-4. Exécutez le script `tp_emsy2.py` dans un terminal avec la commande `python3 tp_emsy2.py`.
+![image](https://github.com/kediven/TPEMSY/assets/144989993/b1204ff9-1883-44de-a194-edfe32fcce0b)
+
+2. Connectez-vous en tant qu'utilisateur avec l'utilisateur : `debian` et le mot de passe :`temppwd`.
+![image](https://github.com/kediven/TPEMSY/assets/144989993/a4e415fa-d93d-43f3-b960-6412a7bb0a43)
+
+3. Exécutez le script `tp_emsy2.py` dans un terminal avec la commande `python3 tp_emsy2.py`.
+![image](https://github.com/kediven/TPEMSY/assets/144989993/06dd8258-955b-40ed-938d-fef907d92de6)
+
+## Voici les librairies utilisées
+Nous utilisons lors de l'initialisation du capteur ces librairies dans le reportoire dev qui ont été implémentées par l'utilisateur "root"
+![image](https://github.com/kediven/TPEMSY/assets/144989993/e2adff2d-7635-4ca8-b3ec-535e9ba58a07)
+
+Nos différentes librairies locales téléchargées depuis github
+![image](https://github.com/kediven/TPEMSY/assets/144989993/05657fe2-0f19-4b8d-b772-c8d1a2762734)
+
+## Données sur le fichier .csv dans le chemin d'accès désiré 
+![image](https://github.com/kediven/TPEMSY/assets/144989993/971a0358-423a-457c-99b3-f3b7e2d3394f)
+![image](https://github.com/kediven/TPEMSY/assets/144989993/c6d68ed4-affa-433d-8b97-3f646512c902)
+
+## CRON sous le système Unix :
+
+
+
+
+
+
+
+
+
+
+
 
 
 
