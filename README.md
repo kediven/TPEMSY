@@ -46,6 +46,24 @@ Nos différentes librairies locales téléchargées depuis github
 ![image](https://github.com/kediven/TPEMSY/assets/144989993/c6d68ed4-affa-433d-8b97-3f646512c902)
 
 ## CRON sous le système Unix :
+Afin de rentrer dans le planificateur de tâches nous devons éxécuter la commande `crontab -e`.
+Par la suite nous demandons donc à exécuter le script python réalisé toutes les 15 minutes, à chaque heure, chaque jour, chaque mois et chaque jour de la semaine. 
+Format de demande : minutes/heure/jour/mois et jour de la semaine
+![image](https://github.com/kediven/TPEMSY/assets/144989993/1ae87116-d647-4caf-b199-17e58b495515)
+
+
+## ERREUR NETWORK
+Nous avons obtenu des erreurs lors de l'envoi du mail alors que nous n'avions pas auparavant.
+Notre code pour l'envoi du mail semble fonctionnel mais nous n'avions jamais réussi à obtenir un e-mail d'avertissement.
+Nous avons obtenu ceci lorsque nous dépassons de 28°C:
+![image](https://github.com/kediven/TPEMSY/assets/144989993/7f626183-5b4f-4072-8f90-69f888ab3c15)
+
+Dans notre script nous faisons appel au serveur SMTP pour l'envoi automatique du mail, mais il se trouve que nous n'arrivons
+pas à établir une connexion. Nous nous sommes connectés à la BBG et nous avons essayé de joindre "google.ch" ou alors "github.com" et voici le résultat :
+![image](https://github.com/kediven/TPEMSY/assets/144989993/b6e2207a-ea4e-48da-9932-bfddae1e51df)
+
+
+
 
 
 
