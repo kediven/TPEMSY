@@ -13,7 +13,7 @@ Cette fonction lit les données du capteur SHT40 et renvoie la température et l
 
 ### calculate_dew_point(temp, hum)
 
-Cette fonction calcule le point de rosée à partir de la température et de l'humidité. Elle utilise les coefficients de Magnus pour effectuer le calcul.
+Cette fonction calcule le point de rosée à partir de la température et de l'humidité. Elle utilise les coefficients de Magnus pour effectuer le calcul. Voir image aprés listing pour en savoir plus sur la formule utilisée.
 
 ### write_row_to_csv(file_path, row_data)
 
@@ -35,4 +35,8 @@ Pour modifier l'adresse email du destinataire des alertes, modifiez la ligne sui
 
 ```python
 send_email(["matteo.stefanelli@eduvaud.ch"], subject, message)
+
+![image](https://github.com/kediven/TPEMSY/assets/144989993/e5769de9-e97d-467d-8b58-1c58f1212345)
+
+
 
