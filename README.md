@@ -26,8 +26,12 @@ Cette fonction envoie un email à une liste de destinataires. Elle utilise le pr
 ## Comment exécuter le script
 
 1. Connectez-vous au terminal PUTTY et connectez-vous à l'adresse de notre BBG avec l'adresse IP.
-2. Connectez-vous en tant qu'utilisateur avec l'utilisateur : `debian` et le mot de passe :`temppwd`.
-3. Exécutez le script `tp_emsy2.py` dans un terminal avec la commande `python3 tp_emsy2.py`.
+   
+3. Connectez-vous en tant qu'utilisateur avec l'utilisateur : `debian` et le mot de passe :`temppwd`.
+4. Exécutez le script `tp_emsy2.py` dans un terminal avec la commande `python3 tp_emsy2.py`.
+
+
+
 
 
 
